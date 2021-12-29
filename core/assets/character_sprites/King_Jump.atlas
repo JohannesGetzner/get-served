@@ -1,0 +1,78 @@
+
+King_Jump.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump Start
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 0
+
+King_Jump2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump Start
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 1
+
+King_Jump3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump Start
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 2
+
+King_Jump4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump Start
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 3
+
+King_Jump5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump Start
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 4
+
+King_Jump6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump Start
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 5

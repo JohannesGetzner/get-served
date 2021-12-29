@@ -1,0 +1,156 @@
+
+Guest3_Kick.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 0
+
+Guest3_Kick2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 1
+
+Guest3_Kick3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 2
+
+Guest3_Kick4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 3
+
+Guest3_Kick5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 4
+
+Guest3_Kick6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 5
+
+Guest3_Kick7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 6
+
+Guest3_Kick8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 7
+
+Guest3_Kick9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 8
+
+Guest3_Kick10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 9
+
+Guest3_Kick11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 10
+
+Guest3_Kick12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 11

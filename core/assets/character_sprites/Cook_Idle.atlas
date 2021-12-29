@@ -1,0 +1,234 @@
+
+Cook_Idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 0
+
+Cook_Idle2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 1
+
+Cook_Idle3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 2
+
+Cook_Idle4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 3
+
+Cook_Idle5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 4
+
+Cook_Idle6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 5
+
+Cook_Idle7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 6
+
+Cook_Idle8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 7
+
+Cook_Idle9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 8
+
+Cook_Idle10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 9
+
+Cook_Idle11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 10
+
+Cook_Idle12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 11
+
+Cook_Idle13.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 12
+
+Cook_Idle14.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 13
+
+Cook_Idle15.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 14
+
+Cook_Idle16.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 15
+
+Cook_Idle17.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 16
+
+Cook_Idle18.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 566, 780
+  orig: 566, 780
+  offset: 0, 0
+  index: 17

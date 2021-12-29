@@ -1,0 +1,123 @@
+{
+	"name" : "level2",
+	"money" : 32,
+	"allowedDishes":["beer","chicken","fish","pommes","pizza"],
+	"positions": [
+			{
+		 "row": 10,
+		 "col": 10,
+		 "type": "table",
+		 "rotation": 0
+		},
+		{
+		 "row": 5,
+		 "col": 20,
+		 "type": "table",
+		 "rotation": 0
+		},
+		{
+		"row": 7,
+		 "col": 14,
+		 "type": "table",
+		 "rotation": 0
+		},
+		{
+		"row": 9,
+		 "col": 21,
+		 "type": "table",
+		 "rotation": 0
+		},
+		{
+		"row": 5,
+		 "col": 10,
+		 "type": "table",
+		 "rotation": 0
+		},
+		{
+		"row": 3,
+		 "col": 15,
+		 "type": "counter",
+		 "rotation": 3
+		},
+		{
+		"row": 11,
+		 "col": 15,
+		 "type": "counter",
+		 "rotation": 2
+		}
+	],
+	"guests":[
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 2,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 6,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 10,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 13,
+		"type": "normal"
+		},
+		{
+    		"patience":36,
+    		"wealth":28,
+    		"spawntime": 16,
+    		"type": "king"
+    	},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 20,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":8,
+		"spawntime": 24,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 28,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 34,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 36,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 41,
+		"type": "normal"
+		},
+		{
+		"patience":84,
+		"wealth":10,
+		"spawntime": 43,
+		"type": "normal"
+		}
+	]
+}

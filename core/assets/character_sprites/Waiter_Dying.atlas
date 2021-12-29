@@ -1,0 +1,177 @@
+
+Waiter_Dying.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 0
+
+Waiter_Dying2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 1
+
+Waiter_Dying3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 2
+
+Waiter_Dying4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 3
+
+Waiter_Dying5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 4
+
+Waiter_Dying6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 5
+
+Waiter_Dying7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 6
+
+Waiter_Dying8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 7
+
+Waiter_Dying9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 8
+
+Waiter_Dying10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 9
+
+Waiter_Dying11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 10
+
+Waiter_Dying12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 11
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 13
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 12
+Dying
+  rotate: false
+  xy: 2, 2
+  size: 706, 819
+  orig: 706, 819
+  offset: 0, 0
+  index: 14

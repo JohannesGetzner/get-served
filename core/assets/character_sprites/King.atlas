@@ -1,0 +1,234 @@
+
+King.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 0
+
+King2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 1
+
+King3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 2
+
+King4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 3
+
+King5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 4
+
+King6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 5
+
+King7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 6
+
+King8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 7
+
+King9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 8
+
+King10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 9
+
+King11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 10
+
+King12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 11
+
+King13.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 12
+
+King14.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 13
+
+King15.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 14
+
+King16.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 15
+
+King17.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 16
+
+King18.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 520, 640
+  orig: 520, 640
+  offset: 0, 0
+  index: 17

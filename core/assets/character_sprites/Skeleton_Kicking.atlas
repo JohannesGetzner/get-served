@@ -1,0 +1,156 @@
+
+Skeleton_Kicking.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+Skeleton_Kicking2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 0
+
+Skeleton_Kicking3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 2
+
+Skeleton_Kicking4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 3
+
+Skeleton_Kicking5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 4
+
+Skeleton_Kicking6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 5
+
+Skeleton_Kicking7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 6
+
+Skeleton_Kicking8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 7
+
+Skeleton_Kicking9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 8
+
+Skeleton_Kicking10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 9
+
+Skeleton_Kicking11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 10
+
+Skeleton_Kicking12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Skeleton_Kicking
+  rotate: false
+  xy: 2, 2
+  size: 538, 674
+  orig: 538, 674
+  offset: 0, 0
+  index: 11
