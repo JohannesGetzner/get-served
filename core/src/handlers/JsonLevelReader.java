@@ -22,21 +22,15 @@ public class JsonLevelReader {
     private List<Guest> guestList = new ArrayList<>();
 
     /**
-     * this method reads the a level's corresponding JSON-File which determines the level' configuration
+     * this method reads the level's corresponding JSON-File which determines the level' configuration
      *
      * @param levelName the identifier of the level
      * @return a Gamelevel object that was build based on the configuration from the JSON File
      */
     public Gamelevel readLevelConfiguration(String levelName) {
         JSONParser parser = new JSONParser();
-        //String filepath = levelName;
-        //TODO: for exporting the game to .jar the levelfiles have to be in the
-        // same folder as the jar file itself (so the path is only levelname):
-        // desktop/build/libs
-        // USE "gradlew desktop:dist" to export the game
-        // and "java -jar desktop-1.0.jar" to run the game from the folder where the jar is
-        //String filepath = "C:\\Users\\evasc\\Desktop\\Uni\\Auslandssemester\\Game Design\\tddd23\\core\\assets\\" + levelName;
-        try (Reader reader = new FileReader(levelName)) {
+        String filepath = System.getProperty("user.dir") + "/core/assets/" + levelName;
+        try (Reader reader = new FileReader(filepath)) {
             Gdx.app.log("INFO: ", "Start reading JSON-Level-Config");
             JSONObject jsonObject = (JSONObject) parser.parse(reader);
             Gamelevel level = new Gamelevel();
